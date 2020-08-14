@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[https://img.shields.io/badge/python-3.7-yellow]
+[<img alt ="Python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />][python]
 
 <br />
 <br />
