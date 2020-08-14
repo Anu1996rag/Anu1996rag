@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img alt ="Python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />][python]
+<img alt ="Python" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />
 
 <br />
 <br />
