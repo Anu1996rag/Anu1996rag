@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/python-3.7-yellow" alt="Python >
+[<img src="https://img.shields.io/badge/python-3.7-yellow" alt="Python >][Python]
 
 <br />
 <br />
