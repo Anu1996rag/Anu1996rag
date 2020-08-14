@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img alt ="Python" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />  <img alt ="Java" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />  <img alt ="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" />   <img alt ="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" />
+<img alt ="Python" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />       <img alt ="Java" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />       <img alt ="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" />        <img alt ="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" />
 
 <br />
 <br />
