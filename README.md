@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[!Python](https://img.shields.io/badge/python-3.7-yellow)
 
 <br />
 <br />
