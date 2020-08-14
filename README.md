@@ -1,6 +1,6 @@
 ### Hello everyone, I am Anurag 👋
 
-## Am a student and an artist !
+## Am a student and an AI/ML Enthusiast !
 
 - 🔭 I’m currently working in an organization as a Trainee
 - 🌱 I’m currently learning everything .
