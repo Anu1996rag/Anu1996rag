@@ -1,4 +1,4 @@
-### Hello everyone, I am Anurag 👋
+### Hello World !, I am Anurag !! 👋
 
 ## Am a student and an AI/ML Enthusiast !
 
