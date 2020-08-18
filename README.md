@@ -27,9 +27,9 @@
 
 <!--<details>-->
   <summary>:zap: Github Stats</summary>
-
+<p align = "center">
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Anu1996rag&show_icons=true&title_color=ffffff&icon_color=ff1616&text_color=ffde59&bg_color=000000" />
-
+</p>
 <!--</details>-->
 
 [github]: https://github.com/Anu1996rag
