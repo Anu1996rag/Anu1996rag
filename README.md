@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img alt ="Python" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />&nbsp;&nbsp; <img alt ="Java" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />&nbsp;&nbsp; <img alt ="HTML" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" />&nbsp;&nbsp; <img alt ="CSS" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" /> &nbsp;&nbsp;   <img alt ="Docker" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" />
+<img alt ="Python" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />&nbsp;&nbsp; <img alt ="Java" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />&nbsp;&nbsp; <img alt ="HTML" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" />&nbsp;&nbsp; <img alt ="CSS" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" /> &nbsp;&nbsp;   <img alt ="Docker" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" /> &nbsp;&nbsp;   <img alt ="Flask" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/flask.svg" />
 
 
 <br />
