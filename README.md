@@ -3,7 +3,7 @@
 ## Am a student and an AI/ML Enthusiast !
 
 - 🔭 I’m currently working in an organization as a Trainee
-- 🌱 I’m currently learning everything .
+- 🌱 Currently learning creating Web RESTful APIs using Flask
 - 🥅 2020 Goals: To excel more in the field of Machine Learning and Deep Learning
 - ⚡ Fun fact: I love to dance and trek !!!
 
