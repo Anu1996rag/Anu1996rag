@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in an organization as a Trainee
 - 🌱 Currently learning creating Web RESTful APIs using Flask
-- 🥅 2020 Goals: To excel more in the field of Machine Learning and Deep Learning
+- 🥅 2020 Goals: To improve coding practices
 - ⚡ Fun fact: I love to dance and trek !!!
 
 ### Connect with me:
