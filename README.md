@@ -1,37 +1,34 @@
-### Hello World !, I am Anurag !! 👋
+<h1 align="center">Hi 👋, I'm Anurag Patil</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-## Am a student and an AI/ML Enthusiast !
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu1996rag&label=Profile%20views&color=0e75b6&style=flat" alt="anu1996rag" /> </p>
 
-- 🔭 I’m currently working in an organization as a Trainee
-- 🌱 Currently learning creating Web RESTful APIs using Flask and Django
-- 🥅 2021 Goals: Achieving excellence
-- ⚡ Fun fact: I love to dance and trek !!!
+- 🔭 I’m currently working on [fastapi](https://github.com/Anu1996rag/fastapi)
 
-### Connect with me:
+- 🌱 I’m currently learning **FastApi, Redis, Microservices, CI/CD**
 
-[<img align="left" alt="Anu1996rag | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][github]
-[<img align="left" alt="Anu1996rag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Anu1996rag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Anu1996rag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 👨‍💻 I use daily [.py, .yml, .env, .toml](.py, .yml, .env, .toml)
 
-<br />
+- 💬 Ping me about **Python, Django, FastApi, Git**
 
-### Languages and Tools:
+- 📫 How to reach me **iamanuragpatil007@gmail.com**
 
-<img alt ="Python" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />&nbsp;&nbsp; <img alt ="Java" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />&nbsp;&nbsp; <img alt ="HTML" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" />&nbsp;&nbsp; <img alt ="CSS" width="25px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" /> &nbsp;&nbsp;   <img alt ="Docker" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" /> &nbsp;&nbsp;   <img alt ="Flask" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/flask.svg" />
-
-
-<br />
-<br />
-
-
-
-<!--<details>
-  <summary> :zap: Github Stats </summary>-->
-<p align="center">
-  <img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Anu1996rag&show_icons=true&title_color=ffffff&icon_color=ff1616&text_color=ffde59&bg_color=000000" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anurag-patil-ba0b5b161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-patil-ba0b5b161" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anurag_patil007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_patil007" height="30" width="40" /></a>
 </p>
-<!--</details>-->
+
+<h3 align="left">Tech Stack:</h3>
+<p align="left"> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu1996rag&show_icons=true&locale=en&layout=compact" alt="anu1996rag" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu1996rag&show_icons=true&locale=en" alt="anu1996rag" /></p>
+
+<br />
+<br />
+
 
 [github]: https://github.com/Anu1996rag
 [twitter]: https://twitter.com/AnuragP84964272
