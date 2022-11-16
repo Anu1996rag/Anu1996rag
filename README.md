@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Patil</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu1996rag&label=Profile%20views&color=0e75b6&style=flat" alt="anu1996rag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu1996rag&label=Profile%20views&color=0e75b6&style=plastic" alt="anu1996rag" /> <a href="https://www.leetcode.com/anurag_patil007" target="blank"> <img src="https://komarev.com/ghpvc/?username=anu1996rag&label=Leetcode&color=yellow&style=plastic" alt="anu1996rag" /> </a> </p>
 
 - 🔭 I’m currently working on [fastapi](https://github.com/Anu1996rag/fastapi)
 
