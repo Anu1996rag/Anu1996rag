@@ -39,18 +39,3 @@
 <a href="https://www.linkedin.com/in/anurag-patil-ba0b5b161/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.leetcode.com/anurag_patil007">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fanurag_patil007&logo=leetcode&logoColor=yellow" height=25>
-</a>
-<a href="https://medium.com/@sudiptob2">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:sudiptobaral.me@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-
-[twitter]: https://twitter.com/AnuragP84964272
-[instagram]: https://www.instagram.com/anurag_patil_1996
-[linkedin]: linkedin.com/in/anurag-patil-ba0b5b161
-[leetcode]: https://www.leetcode.com/anurag_patil007
-
