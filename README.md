@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fanurag_patil007&logo=leetcode&logoColor=yellow" alt="anu1996rag" /> 
   </a> </p>
 
-- 🔭 I’m currently working on ([https://github.com/Anu1996rag/fastapi](https://github.com/Anu1996rag/url_shortener.git))
+- 🔭 I’m currently working on [https://github.com/Anu1996rag/url_shortener](https://github.com/Anu1996rag/url_shortener.git)
 
 - 🌱 I’m currently learning **FastApi, Redis, Microservices, CI/CD**
 
